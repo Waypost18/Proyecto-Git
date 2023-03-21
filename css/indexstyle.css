@@ -1,13 +1,10 @@
 .carouselHeight{
-    height: 30vh;
+    height: 20vh;
 }
 .imgCover{
-    height: 30vh;
+    height: 20vh;
     object-fit: cover;
     object-position: top;
-}
-@media all and (min-width:768px){
-
 }
 @media all and (min-width:992px){
     .carouselHeight{
