@@ -1,0 +1,19 @@
+.carouselHeight{
+    height: 30vh;
+}
+.imgCover{
+    height: 30vh;
+    object-fit: cover;
+    object-position: top;
+}
+@media all and (min-width:768px){
+
+}
+@media all and (min-width:992px){
+    .carouselHeight{
+        height: 45vh;
+    }
+    .imgCover{
+        height: 45vh;
+    }
+}
