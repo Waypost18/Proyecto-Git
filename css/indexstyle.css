@@ -6,6 +6,10 @@
     object-fit: cover;
     object-position: top;
 }
+.cardHeight{
+    height: 200px;
+    object-fit: contain;
+}
 @media all and (min-width:992px){
     .carouselHeight{
         height: 45vh;
